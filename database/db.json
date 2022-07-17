@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "first_name": "Marko",
+      "last_name": "Markovic",
+      "number": "+381652065478",
+      "email": "markomarkovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 1
+    },
+    {
+      "first_name": "Jovan",
+      "last_name": "Jovanovic",
+      "number": "+381645695698",
+      "email": "jovanjovanovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 2
+    },
+    {
+      "first_name": "Petar",
+      "last_name": "Petrovic",
+      "number": "+381645858789",
+      "email": "petarpetrovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 3
+    },
+    {
+      "first_name": "Jelena",
+      "last_name": "Jankovic",
+      "number": "+381645858789",
+      "email": "petarpetrovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 4
+    },
+    {
+      "first_name": "Mila",
+      "last_name": "Milic",
+      "number": "+381645858789",
+      "email": "petarpetrovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 5
+    },
+    {
+      "first_name": "Andja",
+      "last_name": "Zelenbaba",
+      "number": "+381652040432",
+      "email": "andja.velimirovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 6
+    },
+    {
+      "first_name": "Andja",
+      "last_name": "Zelenbaba",
+      "number": "+10652040432",
+      "email": "andja.velimirovic@gmail.com",
+      "image": "./avatar.jpg",
+      "id": 7
+    }
+  ]
+}
